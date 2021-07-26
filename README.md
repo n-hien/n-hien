@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things, travel and cooking
 - 🌱 I’m currently learning Machine Learning and Data Analyse
 - 💞️ I’m looking for internships and student job
-
+- https://n-hien.github.io/
 
 <!---
 n-hien/n-hien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
