@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hien
-- 👀 I’m interested in learning new things, travel and cooking
+- 👀 I’m interested in learning new things, traveling and cooking
 - 🌱 I’m currently learning Machine Learning and Data Analyse
 - 💞️ I’m looking for internships and student job
 - https://n-hien.github.io/
