@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Hien
-- 👀 I’m interested in learning new things, traveling and cooking
-- 🌱 I’m currently learning Machine Learning and Data Analysis
-- 💞️ I’m looking for internships or student jobs
+- I'm seeking for a 3 to 6-month internship program which helps me to utilize the knowledge and passion for data science and collect experiences in working environment.
 - https://n-hien.github.io/
 
 <!---
